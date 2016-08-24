@@ -1,0 +1,12 @@
+
+
+object XMLExtract extends App {
+	val xml = <Person name = "Mahendra">
+				<University> Pune </University>
+			  </Person>
+			  
+	println(xml.text)
+	println(xml\"University")
+	println(xml\"@name")
+	
+}

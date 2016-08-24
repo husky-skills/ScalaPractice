@@ -1,0 +1,5 @@
+addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.0.0-M1")
+
+ enablePlugins(UniversalPlugin)
+
+target/universal/stage/bin/my-first-app -Dapplicationcation.secret=abcdefghi
