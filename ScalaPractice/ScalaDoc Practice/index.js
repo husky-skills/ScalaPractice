@@ -1,0 +1,1 @@
+Index.PACKAGES = {"scaladoc" : [], "scaladoc.practice" : [{"class" : "scaladoc\/practice\/ScalaTestDoc.html", "name" : "scaladoc.practice.ScalaTestDoc"}]};
